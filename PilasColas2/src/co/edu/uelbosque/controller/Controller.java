@@ -21,6 +21,7 @@ public class Controller {
 /**
  * Metodo de tipo void que permite funcionar a la clase Controller
  */
+	
 	public void funcionar() {		
 		Pila pila = new Pila();
 		Cola cola = new Cola();
